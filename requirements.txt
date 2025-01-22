@@ -1,0 +1,7 @@
+langchain==0.3.15
+langchain_community==0.3.15
+numpy==2.2.2
+pandas==2.2.3
+streamlit==1.41.1
+torch==2.5.1
+transformers==4.48.1
